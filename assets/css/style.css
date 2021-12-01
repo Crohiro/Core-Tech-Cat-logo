@@ -7932,6 +7932,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > ul.dropdown-menu {
     #Footer
 \*------------------------------------*/
 /* Parallax Effect */
+
 #wrapperParallax {
   position: relative;
   z-index: 1060;
@@ -8223,6 +8224,8 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > ul.dropdown-menu {
 .footer-light .footer--copyright {
   border-color: #eaeaea;
 }
+
+
 
 /* Custom, iPhone Retina */
 @media only screen and (min-width: 320px) and (max-width: 767px) {
